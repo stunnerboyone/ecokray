@@ -1,20 +1,20 @@
-name: Deploy via FTP
+name: Deploy OpenCart via FTP
 
 on:
   push:
     branches:
-      - main  # або ваша основна гілка
+      - main
 
 jobs:
   ftp-deploy:
-    name: Upload to TheHost via FTP
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4.3.4
-      - name: Deploy to TheHost
-        uses: SamKirkland/FTP-Deploy-Action@v4
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: FTP Deploy
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
