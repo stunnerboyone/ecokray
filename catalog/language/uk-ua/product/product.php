@@ -1,51 +1,51 @@
 <?php
 // Text
-$_['text_search']              = 'Search';
-$_['text_brand']               = 'Brand';
-$_['text_manufacturer']        = 'Brand:';
-$_['text_model']               = 'Product Code:';
-$_['text_reward']              = 'Reward Points:';
-$_['text_points']              = 'Price in reward points:';
-$_['text_stock']               = 'Availability:';
-$_['text_instock']             = 'In Stock';
-$_['text_tax']                 = 'Ex Tax:';
-$_['text_discount']            = ' or more ';
-$_['text_option']              = 'Available Options';
-$_['text_minimum']             = 'This product has a minimum quantity of %s';
-$_['text_reviews']             = '%s reviews';
-$_['text_write']               = 'Write a review';
-$_['text_login']               = 'Please <a href="%s">login</a> or <a href="%s">register</a> to review';
-$_['text_no_reviews']          = 'There are no reviews for this product.';
-$_['text_note']                = '<span class="text-danger">Note:</span> HTML is not translated!';
-$_['text_success']             = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_related']             = 'Related Products';
-$_['text_tags']                = 'Tags:';
-$_['text_error']               = 'Product not found!';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
-$_['text_day']                 = 'day';
-$_['text_week']                = 'week';
-$_['text_semi_month']          = 'half-month';
-$_['text_month']               = 'month';
-$_['text_year']                = 'year';
+$_['text_search']              = 'Пошук';
+$_['text_brand']               = 'Бренд';
+$_['text_manufacturer']        = 'Бренд:';
+$_['text_model']               = 'Код товару:';
+$_['text_reward']              = 'Бонусні бали:';
+$_['text_points']              = 'Ціна в бонусних балах:';
+$_['text_stock']               = 'Наявність:';
+$_['text_instock']             = 'В наявності';
+$_['text_tax']                 = 'Без ПДВ:';
+$_['text_discount']            = ' або більше ';
+$_['text_option']              = 'Доступні опції';
+$_['text_minimum']             = 'Мінімальна кількість для замовлення: %s';
+$_['text_reviews']             = '%s відгуків';
+$_['text_write']               = 'Написати відгук';
+$_['text_login']               = 'Будь ласка, <a href="%s">увійдіть</a> або <a href="%s">зареєструйтесь</a>, щоб залишити відгук';
+$_['text_no_reviews']          = 'Немає відгуків про цей товар.';
+$_['text_note']                = '<span class="text-danger">Примітка:</span> HTML не обробляється!';
+$_['text_success']             = 'Дякуємо за ваш відгук. Він надісланий на перевірку адміністратору.';
+$_['text_related']             = 'Схожі товари';
+$_['text_tags']                = 'Теги:';
+$_['text_error']               = 'Товар не знайдено!';
+$_['text_payment_recurring']   = 'Платіжний профіль';
+$_['text_trial_description']   = '%s кожні %d %s(ів) протягом %d платежів, потім';
+$_['text_payment_description'] = '%s кожні %d %s(ів) протягом %d платежів';
+$_['text_payment_cancel']      = '%s кожні %d %s(ів) до скасування';
+$_['text_day']                 = 'день';
+$_['text_week']                = 'тиждень';
+$_['text_semi_month']          = 'півмісяця';
+$_['text_month']               = 'місяць';
+$_['text_year']                = 'рік';
 
 // Entry
-$_['entry_qty']                = 'Qty';
-$_['entry_name']               = 'Your Name';
-$_['entry_review']             = 'Your Review';
-$_['entry_rating']             = 'Rating';
-$_['entry_good']               = 'Good';
-$_['entry_bad']                = 'Bad';
+$_['entry_qty']                = 'Кількість';
+$_['entry_name']               = 'Ваше ім’я';
+$_['entry_review']             = 'Ваш відгук';
+$_['entry_rating']             = 'Оцінка';
+$_['entry_good']               = 'Добре';
+$_['entry_bad']                = 'Погано';
 
 // Tabs
-$_['tab_description']          = 'Description';
-$_['tab_attribute']            = 'Specification';
-$_['tab_review']               = 'Reviews (%s)';
+$_['tab_description']          = 'Опис';
+$_['tab_attribute']            = 'Характеристики';
+$_['tab_review']               = 'Відгуки (%s)';
 
 // Error
-$_['error_name']               = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']               = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']             = 'Warning: Please select a review rating!';
-$_['error_product']            = "Wanring: Product required to add the review!";
+$_['error_name']               = 'Ім’я повинно містити від 3 до 25 символів!';
+$_['error_text']               = 'Текст відгуку повинен містити від 25 до 1000 символів!';
+$_['error_rating']             = 'Будь ласка, оберіть оцінку!';
+$_['error_product']            = 'Попередження: Потрібно обрати товар для залишення відгуку!';

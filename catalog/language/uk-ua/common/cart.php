@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_items']     = '<span class="item-count">%s</span><span class="mycart">Items</span> <span class="price"> %s </span>';
-$_['text_empty_cart']     = 'Your shopping cart is empty!';
-$_['text_cart']      = 'View Cart';
-$_['text_title']      = 'Item';
-$_['text_checkout']  = 'Checkout';
-$_['text_recurring'] = 'Payment Profile';
-$_['cart_heading'] = 'Cart';
+$_['text_items']     = '<span class="item-count">%s</span><span class="mycart"> товарів</span> <span class="price">%s</span>';
+$_['text_empty_cart'] = 'Кошик порожній!';
+$_['text_cart']      = 'Кошик';
+$_['text_title']     = 'Назва товару';
+$_['text_checkout']  = 'Оформити замовлення';
+$_['text_recurring'] = 'Періодичні платежі';
+$_['cart_heading']   = 'Кошик';

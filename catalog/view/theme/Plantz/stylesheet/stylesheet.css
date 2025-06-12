@@ -379,7 +379,7 @@ div.required .control-label:before {
 .social-block {
 	float: right;
 	width: 100%;
-	margin: 60px 0 0;
+	margin-top: 60px;
 }
 footer .social-block h5 {
     margin: 0 0 15px 0;
@@ -408,6 +408,7 @@ footer .social-block h5 {
 #footer .social-block ul li.facebook a:hover{color:#3b5998;}
 #footer .social-block ul li.twitter a:hover{color:#4099FF;}
 #footer .social-block ul li.linkedin a:hover{color:#007bb6;}
+#footer .social-block ul li.tiktok a:hover{color:#000000;}
 #footer .social-block ul li.rss a:hover{color:#FA9B39;}
 #footer .social-block ul li.youtube a:hover{color:#C4302B;}
 #footer .social-block ul li.pinterest a:hover{color:#910101;}
@@ -5301,7 +5302,7 @@ footer .desc-block p,
     margin: 30px 0 0;
 }
 #footer {
-	padding: 70px 0;
+	  padding: 70px 0 40px 0;
     float: left;
     position: relative;
     width: 100%;
@@ -7072,6 +7073,7 @@ h2.price {margin: 0;}
     z-index: 99;
     font-size: 0px;
     border: 0;
+		border-radius: 50%;
     background: #c67d4e;
     -webkit-animation-name: hvr-icon-bob-float, hvr-icon-bob;
     animation-name: hvr-icon-bob-float, hvr-icon-bob;
@@ -7862,6 +7864,7 @@ h2.price {margin: 0;}
     text-transform: uppercase;
     width: 100%;
     border: 1px solid #e5e5e5;
+		border-radius: 8px;
     padding: 9px 25px;
     color: #666666;
     background: transparent;
@@ -11457,7 +11460,7 @@ button.wishlist {
 }
 .slider-button a:hover {
 	color:#ffffff;
-	background: #222222;
+	background: #45a049;
 	outline:0;
 }
 .slider-button {
@@ -11472,7 +11475,7 @@ button.wishlist {
     position: relative;
     border: none;
     background: #c67d4e;
-    border-radius: 0;
+    border-radius: 8px !important;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
     -khtml-border-radius: 0;

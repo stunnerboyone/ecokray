@@ -1,15 +1,13 @@
 <?php
 // Heading
-$_['heading_title']     = 'Our Newsletter';
-$_['text_subscribe']	= 'Subscribe';
-$_['heading_subtitle'] = 'You may unsubscribe at any moment.  please find our contact info';
-$_['heading_desc'] = 'Get updates about our new products and 10% discount on first order.';
+$_['heading_title']     = 'Наша Розсилка';
+$_['text_subscribe']    = 'Підписатися';
+$_['heading_subtitle']  = 'Ви можете відписатися в будь-який час. Знайдіть нашу контактну інформацію нижче';
+$_['heading_desc']      = 'Отримуйте оновлення про наші нові продукти та 10% знижки на перше замовлення.';
 
 // Entry
-$_['entry_email']          = 'Enter Your Email';
+$_['entry_email']       = 'Введіть вашу електронну адресу';
 
 // Email
-$_['email_subject']       = 'Welcome';
-$_['email_content']       = 'Thank you for Subscription';
-
-
+$_['email_subject']     = 'Вітаємо';
+$_['email_content']     = 'Дякуємо за підписку';

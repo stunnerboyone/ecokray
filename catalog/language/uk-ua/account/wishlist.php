@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'My Wish List';
+$_['heading_title'] = 'Мій список бажань';
 
 // Text
-$_['text_account']  = 'Account';
-$_['text_instock']  = 'In Stock';
-$_['text_wishlist']      = '<span class="wishlist">Wishlist</span><span class="wishlist_count">%s</span>';
-$_['text_login']    = 'You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_success']  = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_remove']   = 'Success: You have modified your wish list!';
-$_['text_empty']    = 'Your wish list is empty.';
+$_['text_account']  = 'Обліковий запис';
+$_['text_instock']  = 'В наявності';
+$_['text_wishlist'] = '<span class="wishlist">Список бажань</span><span class="wishlist_count">%s</span>';
+$_['text_login']    = 'Ви повинні <a href="%s">увійти</a> або <a href="%s">створити обліковий запис</a>, щоб зберегти <a href="%s">%s</a> до вашого <a href="%s">списку бажань</a>!';
+$_['text_success']  = 'Готово: Ви додали <a href="%s">%s</a> до вашого <a href="%s">списку бажань</a>!';
+$_['text_remove']   = 'Готово: Ви оновили ваш список бажань!';
+$_['text_empty']    = 'Ваш список бажань порожній.';
 
 // Column
-$_['column_image']  = 'Image';
-$_['column_name']   = 'Product Name';
-$_['column_model']  = 'Model';
-$_['column_stock']  = 'Stock';
-$_['column_price']  = 'Unit Price';
-$_['column_action'] = 'Action';
+$_['column_image']  = 'Зображення';
+$_['column_name']   = 'Назва товару';
+$_['column_model']  = 'Модель';
+$_['column_stock']  = 'Наявність';
+$_['column_price']  = 'Ціна за одиницю';
+$_['column_action'] = 'Дія';

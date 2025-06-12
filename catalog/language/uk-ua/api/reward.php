@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_success']     = 'Success: Your reward points discount has been applied!';
+$_['text_success']     = 'Успішно: Знижка за бонусні бали застосована!';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_reward']     = 'Warning: Please enter the amount of reward points to use!';
-$_['error_points']     = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']    = 'Warning: The maximum number of points that can be applied is %s!';
+$_['error_permission'] = 'Попередження: У вас немає дозволу на доступ до API!';
+$_['error_reward']     = 'Попередження: Вкажіть кількість бонусних балів для використання!';
+$_['error_points']     = 'Попередження: У вас немає %s бонусних балів!';
+$_['error_maximum']    = 'Попередження: Максимальна кількість балів, яку можна використати — %s!';

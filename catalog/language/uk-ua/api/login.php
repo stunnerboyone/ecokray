@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success'] = 'Success: API session successfully started!';
+$_['text_success'] = 'Успішно: Сесію API успішно запущено!';
 
 // Error
-$_['error_key']    = 'Warning: Incorrect API Key!';
-$_['error_ip']     = 'Warning: Your IP %s is not allowed to access this API!';
+$_['error_key']    = 'Попередження: Невірний ключ API!';
+$_['error_ip']     = 'Попередження: Ваш IP %s не має доступу до цього API!';

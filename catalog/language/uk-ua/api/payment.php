@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_address']       = 'Success: Payment address has been set!';
-$_['text_method']        = 'Success: Payment method has been set!';
+$_['text_address']       = 'Успішно: Адресу для оплати встановлено!';
+$_['text_method']        = 'Успішно: Спосіб оплати встановлено!';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']         = 'City must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters for this country!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
-$_['error_address']      = 'Warning: Payment address required!';
-$_['error_method']       = 'Warning: Payment method required!';
-$_['error_no_payment']   = 'Warning: No Payment options are available!';
+$_['error_permission']   = 'Попередження: У вас немає дозволу на доступ до API!';
+$_['error_firstname']    = "Ім'я повинно містити від 1 до 32 символів!";
+$_['error_lastname']     = 'Прізвище повинно містити від 1 до 32 символів!';
+$_['error_address_1']    = 'Адреса повинна містити від 3 до 128 символів!';
+$_['error_city']         = 'Місто повинно містити від 3 до 128 символів!';
+$_['error_postcode']     = 'Поштовий індекс повинен містити від 2 до 10 символів для цієї країни!';
+$_['error_country']      = 'Будь ласка, оберіть країну!';
+$_['error_zone']         = 'Будь ласка, оберіть регіон / область!';
+$_['error_custom_field'] = 'Поле %s є обов’язковим!';
+$_['error_address']      = 'Попередження: Потрібна адреса для оплати!';
+$_['error_method']       = 'Попередження: Потрібен спосіб оплати!';
+$_['error_no_payment']   = 'Попередження: Немає доступних способів оплати!';

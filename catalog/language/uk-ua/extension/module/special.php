@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title'] = 'Special Products';
-$_['heading_subtitle'] = 'Special Product';
-$_['heading_desc'] = 'Branded collections';
+$_['heading_title'] = 'Спеціальні продукти';
+$_['heading_subtitle'] = 'Спеціальний продукт';
+$_['heading_desc'] = 'Колекції брендів';
 
 // Text
-$_['text_tax']      = 'Ex Tax:';
+$_['text_tax']      = 'Без податку:';

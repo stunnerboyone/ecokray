@@ -1,31 +1,28 @@
 <?php
 // Heading
-$_['heading_title']         = 'Sagepay Direct Cards';
+$_['heading_title']         = 'Карти Sagepay Direct';
 
 // Text
-$_['text_empty']		    = 'You have no saved cards';
-$_['text_account']          = 'Account';
-$_['text_card']			    = 'SagePay Direct Card Management';
-$_['text_fail_card']	    = 'There was an issue removing your SagePay card, Please contact the shop administrator for help.';
-$_['text_success_card']     = 'SagePay card successfully removed';
-$_['text_success_add_card'] = 'SagePay card successfully added';
+$_['text_empty']		    = 'У вас немає збережених карток';
+$_['text_account']          = 'Акаунт';
+$_['text_card']			    = 'Управління картами SagePay Direct';
+$_['text_fail_card']	    = 'Сталася помилка при видаленні картки SagePay. Будь ласка, зв’яжіться з адміністрацією магазину для допомоги.';
+$_['text_success_card']     = 'Картку SagePay успішно видалено';
+$_['text_success_add_card'] = 'Картку SagePay успішно додано';
 
 // Column
-$_['column_type']		    = 'Card Type';
-$_['column_digits']	        = 'Last Digits';
-$_['column_expiry']		    = 'Expiry';
+$_['column_type']		    = 'Тип картки';
+$_['column_digits']	        = 'Останні цифри';
+$_['column_expiry']		    = 'Термін дії';
 
 // Entry
-$_['entry_cc_owner']        = 'Card Owner';
-$_['entry_cc_type']         = 'Card Type';
-$_['entry_cc_number']       = 'Card Number';
-$_['entry_cc_expire_date']  = 'Card Expiry Date';
-$_['entry_cc_cvv2']         = 'Card Security Code (CVV2)';
-$_['entry_cc_choice']       = 'Choose an Existing Card';
+$_['entry_cc_owner']        = 'Власник картки';
+$_['entry_cc_type']         = 'Тип картки';
+$_['entry_cc_number']       = 'Номер картки';
+$_['entry_cc_expire_date']  = 'Термін дії картки';
+$_['entry_cc_cvv2']         = 'Код безпеки (CVV2)';
+$_['entry_cc_choice']       = 'Оберіть існуючу картку';
 
 // Button
-$_['button_add_card']       = 'Add Card';
-$_['button_new_card']       = 'Add New Card';
-
-
-
+$_['button_add_card']       = 'Додати картку';
+$_['button_new_card']       = 'Додати нову картку';

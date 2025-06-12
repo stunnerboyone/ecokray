@@ -1,6 +1,6 @@
 <?php
 
 // Text
-$_['text_cron_email_message'] = '<p>This is an automated report of the latest CRON task performed by your Google Shopping extension.</p><p>%s</p>';
-$_['text_cron_email_subject'] = 'CRON job report - Google Shopping on OpenCart';
-$_['text_per_day']            = '$%s / day';
+$_['text_cron_email_message'] = '<p>Це автоматичний звіт про останнє виконання CRON-завдання розширення Google Shopping.</p><p>%s</p>';
+$_['text_cron_email_subject'] = 'Звіт про CRON-завдання — Google Shopping для OpenCart';
+$_['text_per_day']            = '$%s / день';

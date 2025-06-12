@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_captcha'] = 'Captcha';
+$_['text_captcha']  = 'Captcha';
 
-// Вступ
-$_['entry_captcha'] = 'Будь ласка, завершіть перевірку captcha нижче';
+// Entry
+$_['entry_captcha'] = 'Please complete the captcha validation below';
 
-// Помилка
-$_['error_captcha'] = 'Підтвердження невірне!';
+// Error
+$_['error_captcha'] = 'Verification is not correct!';

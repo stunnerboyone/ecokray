@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_all'] = 'Show All';
-$_['name'] = 'Home';
+$_['text_all'] = 'Показати все';
+$_['name'] = 'Домашня';
 
-$_['text_blog'] = 'Blogs';
-$_['text_manufacturer'] = 'Brands';
+$_['text_blog'] = 'Блог';
+$_['text_manufacturer'] = 'Партнери';

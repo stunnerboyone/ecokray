@@ -1,8 +1,8 @@
 <?php
 
-$_['abandoned_mail_time'] = 'Час створення';
-$_['abandoned_mail_email'] = 'Email';
-$_['abandoned_mail_name'] = 'Ім\'я';
-$_['abandoned_mail_telephone'] = 'Телефон';
-$_['abandoned_mail_products'] = 'Товари';
-$_['abandoned_mail_subject'] = 'Нові покинуті кошики';
+$_['abandoned_mail_time'] = 'Abandoned_mail_time';
+$_['abandoned_mail_email'] = 'Mail';
+$_['abandoned_mail_name'] = 'Name';
+$_['abandoned_mail_telephone'] = 'Phone';
+$_['abandoned_mail_products'] = 'Products';
+$_['abandoned_mail_subject'] = 'New abandoned carts';

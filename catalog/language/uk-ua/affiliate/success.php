@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Affiliate Account Has Been Created!';
+$_['heading_title'] = 'Ваш партнерський акаунт створено!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You are now a member of %s affiliates.</p> <p>If you have ANY questions about the operation of this affiliate system, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account']  = 'Account';
-$_['text_success']  = 'Success';
+$_['text_message']  = '<p>Вітаємо! Ваш новий обліковий запис успішно створено!</p> <p>Тепер ви є учасником партнерської програми %s.</p> <p>Якщо у вас є БУДЬ-ЯКІ запитання щодо роботи цієї партнерської системи, будь ласка, надішліть листа власнику магазину.</p> <p>Підтвердження було надіслано на вказану адресу електронної пошти. Якщо ви не отримали лист протягом години, будь ласка, <a href="%s">зв’яжіться з нами</a>.</p>';
+$_['text_approval'] = '<p>Дякуємо за реєстрацію в партнерській програмі %s!</p><p>Ви отримаєте повідомлення електронною поштою, щойно ваш акаунт буде активовано власником магазину.</p><p>Якщо у вас є БУДЬ-ЯКІ запитання щодо роботи партнерської системи, будь ласка, <a href="%s">зв’яжіться з власником магазину</a>.</p>';
+$_['text_account']  = 'Обліковий запис';
+$_['text_success']  = 'Успішно';

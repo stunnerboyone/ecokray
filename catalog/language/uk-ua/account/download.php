@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']     = 'Account Downloads';
+$_['heading_title']     = 'Завантаження акаунта';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_downloads']    = 'Downloads';
-$_['text_empty']        = 'You have not made any previous downloadable orders!';
+$_['text_account']      = 'Акаунт';
+$_['text_downloads']    = 'Завантаження';
+$_['text_empty']        = 'Ви ще не маєте доступних для завантаження замовлень!';
 
 // Column
-$_['column_order_id']   = 'Order ID';
-$_['column_name']       = 'Name';
-$_['column_size']       = 'Size';
-$_['column_date_added'] = 'Date Added';
+$_['column_order_id']   = '№ Замовлення';
+$_['column_name']       = 'Назва';
+$_['column_size']       = 'Розмір';
+$_['column_date_added'] = 'Дата додавання';

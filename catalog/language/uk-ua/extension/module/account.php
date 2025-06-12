@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Акаунт';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_reward']      = 'Reward Points';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
-$_['text_recurring']   = 'Recurring payments';
+$_['text_register']    = 'Реєстрація';
+$_['text_login']       = 'Вхід';
+$_['text_logout']      = 'Вихід';
+$_['text_forgotten']   = 'Забули пароль';
+$_['text_account']     = 'Мій акаунт';
+$_['text_edit']        = 'Редагувати акаунт';
+$_['text_password']    = 'Пароль';
+$_['text_address']     = 'Адресна книга';
+$_['text_wishlist']    = 'Список бажань';
+$_['text_order']       = 'Історія замовлень';
+$_['text_download']    = 'Завантаження';
+$_['text_reward']      = 'Бонусні бали';
+$_['text_return']      = 'Повернення';
+$_['text_transaction'] = 'Транзакції';
+$_['text_newsletter']  = 'Розсилка';
+$_['text_recurring']   = 'Регулярні платежі';

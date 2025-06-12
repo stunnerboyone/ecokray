@@ -1,17 +1,17 @@
 <?php
 // Text
-$_['text_home']          = 'Home';
-$_['text_wishlist']      = 'Wish list';
-$_['text_compare']      = 'Compare';
-$_['text_shopping_cart'] = 'Cart';
-$_['text_category']      = 'All Categories';
-$_['text_account']       = 'Account';
-$_['text_register']      = 'Register';
-$_['text_login']         = 'Login';
-$_['text_order']         = 'Order History';
-$_['text_transaction']   = 'Transactions';
-$_['text_download']      = 'Downloads';
-$_['text_logout']        = 'Logout';
-$_['text_checkout']      = 'Checkout';
-$_['text_all']           = 'Show All';
-$_['text_blog']          = 'Blogs';
+$_['text_home']          = 'Головна';
+$_['text_wishlist']      = 'Список бажань';
+$_['text_compare']       = 'Порівняння';
+$_['text_shopping_cart'] = 'Кошик';
+$_['text_category']      = 'Усі категорії';
+$_['text_account']       = 'Акаунт';
+$_['text_register']      = 'Реєстрація';
+$_['text_login']         = 'Вхід';
+$_['text_order']         = 'Історія замовлень';
+$_['text_transaction']   = 'Транзакції';
+$_['text_download']      = 'Завантаження';
+$_['text_logout']        = 'Вихід';
+$_['text_checkout']      = 'Оформлення замовлення';
+$_['text_all']           = 'Показати все';
+$_['text_blog']          = 'Блог';
