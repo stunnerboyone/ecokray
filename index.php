@@ -11,6 +11,11 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
+if (!extension_loaded('ionCube Loader')) {
+    die('ionCube Loader is NOT loaded');
+}
+
+
 
 // Install
 if (!defined('DIR_APPLICATION')) {
