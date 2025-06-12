@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']  = 'Contact Us';
+$_['heading_title']  = 'Зв’язатися з нами';
 
 // Text
-$_['text_location']  = 'Our Location';
-$_['text_store']     = 'Our Stores';
-$_['text_contact']   = 'Contact Form';
-$_['text_address']   = 'Address';
-$_['text_telephone'] = 'Telephone';
-$_['text_fax']       = 'Fax';
-$_['text_open']      = 'Opening Times';
-$_['text_comment']   = 'Comments';
-$_['text_message']   = '<p>Your enquiry has been successfully sent to the store owner!</p>'; 
+$_['text_location']  = 'Наша локація';
+$_['text_store']     = 'Наші магазини';
+$_['text_contact']   = 'Форма зворотного зв’язку';
+$_['text_address']   = 'Адреса';
+$_['text_telephone'] = 'Телефон';
+$_['text_fax']       = 'Факс';
+$_['text_open']      = 'Графік роботи';
+$_['text_comment']   = 'Коментарі';
+$_['text_message']   = '<p>Ваш запит успішно надіслано власнику магазину!</p>';
 
 // Entry
-$_['entry_name']     = 'Your Name';
-$_['entry_email']    = 'E-Mail Address';
-$_['entry_enquiry']  = 'Enquiry';
+$_['entry_name']     = 'Ваше ім’я';
+$_['entry_email']    = 'Електронна пошта';
+$_['entry_enquiry']  = 'Повідомлення';
 
 // Email
-$_['email_subject']  = 'Enquiry %s';
+$_['email_subject']  = 'Запит %s';
 
 // Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
+$_['error_name']     = 'Ім’я повинно містити від 3 до 32 символів!';
+$_['error_email']    = 'Невірний формат електронної пошти!';
+$_['error_enquiry']  = 'Повідомлення повинно містити від 10 до 3000 символів!';
