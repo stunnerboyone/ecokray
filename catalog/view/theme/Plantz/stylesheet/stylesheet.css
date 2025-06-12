@@ -379,7 +379,7 @@ div.required .control-label:before {
 .social-block {
 	float: right;
 	width: 100%;
-	margin: 10px 0 0;
+	margin: 60px 0 0;
 }
 footer .social-block h5 {
     margin: 0 0 15px 0;
@@ -5711,7 +5711,7 @@ label.control-label.qty {
     font-size: 13px;
     border-top:1px solid #4c4c4c;
     background: #222;
-    padding: 40px 0;
+    padding: 20px 0;
 }
 #paymentcmsblock p {
     margin: 0;
@@ -9348,7 +9348,7 @@ h4:hover a, h4:focus a {
 		padding: 50px 0;
 	}
 	.bottomfooter {
-		padding: 30px 0;
+		padding-top: 10px 0;
 	}
 	#cart .item-count {
 		left: 0;
