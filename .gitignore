@@ -1,3 +1,7 @@
 /config.php
 /overlord/config.php
 /image/cache
+/system/storage
+/system/library
+/upload
+/system
